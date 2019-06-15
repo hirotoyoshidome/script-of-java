@@ -20,5 +20,6 @@ dependencies{
 	compile 'org.jsoup:jsoup:1.7.2'
 	compile 'org.slf4j:slf4j-api:1.7.25'
 	compile 'com.nativelibs4java:bridj:0.7.0'
+	compile 'org.projectlombok:lombok:1.18.8'
 
 }

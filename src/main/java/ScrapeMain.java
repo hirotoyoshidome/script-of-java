@@ -7,7 +7,7 @@ import org.jsoup.select.Elements;
 /**
  * 
  * @author hiroto
- *
+ * GitHubのトップ画面をスクレイピングするサンプル
  */
 public class ScrapeMain {
 	public static void main(String[] args) throws IOException {

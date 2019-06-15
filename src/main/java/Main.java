@@ -1,5 +1,6 @@
 /**
  * main class
+ * 基本構文
  */
 public class Main {
     /**

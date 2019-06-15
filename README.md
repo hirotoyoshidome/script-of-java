@@ -1,4 +1,4 @@
-# java_practice
+# JavaScript
 
 ```
 gradle build

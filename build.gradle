@@ -2,14 +2,14 @@ apply plugin: 'java'
 apply plugin: 'application'
 apply plugin: 'eclipse'
 
-mainClassName = 'ScrapeMain'
+mainClassName = 'ScriptMain'
 
 repositories {
 	mavenCentral()
 }
 
 jar{
-	baseName = 'scrape-gradle'
+	baseName = 'script-gradle'
 	version = '0.1.0'
 }
 

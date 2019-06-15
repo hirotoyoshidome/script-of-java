@@ -1,4 +1,6 @@
 # java_practice
 
-* サンプルで作ったもの
+```
+gradle build
+```
 

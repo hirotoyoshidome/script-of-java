@@ -1,0 +1,24 @@
+apply plugin: 'java'
+apply plugin: 'application'
+apply plugin: 'eclipse'
+
+mainClassName = 'ScrapeMain'
+
+repositories {
+	mavenCentral()
+}
+
+jar{
+	baseName = 'scrape-gradle'
+	version = '0.1.0'
+}
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+dependencies{
+	compile 'org.jsoup:jsoup:1.7.2'
+	compile 'org.slf4j:slf4j-api:1.7.25'
+	compile 'com.nativelibs4java:bridj:0.7.0'
+
+}

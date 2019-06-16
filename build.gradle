@@ -22,4 +22,5 @@ dependencies{
 	compile 'com.nativelibs4java:bridj:0.7.0'
 	compile 'org.projectlombok:lombok:1.18.8'
 	compile 'com.opencsv:opencsv:4.1'
+	compile 'com.google.zxing:javase:3.3.3'
 }
